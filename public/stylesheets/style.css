@@ -1,0 +1,23 @@
+.projects-header{
+    text-align: center;
+}
+.projects-flex{
+    display: flex;
+    flex-direction: row;
+    margin: 15px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.projects-flex div{
+    margin: 15px;
+}
+
+.buttons{
+    text-align: center;
+}
+
+.buttons a{
+    margin: 2px;
+}
+
